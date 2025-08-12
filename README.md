@@ -1,2 +1,2 @@
 # Python_Databaze-telat
-![Obrázky](images/demo.png)
+![Obrázek](images/Přidání zvířete.png)
