@@ -1,4 +1,4 @@
-# Python_Databaze-telat
+# Databaze telat
 
 Jednoduchá konzolová aplikace v Pythonu pro evidenci telat v CSV souboru. 
 
