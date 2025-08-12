@@ -143,4 +143,5 @@ while True:
         print("Program ukončen. Změny byly uloženy.")
         break
     else:
+
         print("Neplatná volba, zkuste to znovu.")
