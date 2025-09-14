@@ -5,6 +5,7 @@ Jednoduchá konzolová aplikace v Pythonu sloužící jako databáze telat.
 ---
 
 ***Součástí repozitáře je:***
+- `README.md` – popis projektu, dokumentace
 - `main.py` – hlavní program aplikace  
 - `telata.csv` – soubor s uloženými daty (tabulka telat)  
 - `images/` – složka se screenshoty aplikace  
