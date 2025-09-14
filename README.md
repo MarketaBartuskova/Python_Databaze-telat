@@ -9,7 +9,7 @@ Jednoduchá konzolová aplikace v Pythonu sloužící jako databáze telat.
 - Úprava existujícího záznamu
 - Smazání zvířete z databáze
 - Zobrazení všech zvířat 
-- Detailní zobrazení s obrázkem ASCII kravičkou
+- Detailní zobrazení s obrázkem ASCII 
 - Automatické ukládání dat do `telata.csv`, soubor se sám vytvoří
 
 ---
