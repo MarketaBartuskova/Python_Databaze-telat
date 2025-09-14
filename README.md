@@ -1,8 +1,10 @@
-***Databáze telat***
+# Databáze telat
 
 Jednoduchá konzolová aplikace v Pythonu sloužící jako databáze telat. 
 
-Funkce:
+---
+
+***Funkce:***
 - Přidání nového telete
 - Úprava existujícího záznamu
 - Smazání zvířete z databáze
@@ -10,10 +12,12 @@ Funkce:
 - Detailní zobrazení s obrázkem ASCII kravičkou
 - Automatické ukládání dat do `telata.csv`, soubor se sám vytvoří
 
-Ukázka:
-Vypsání detailu zvířete
-![Obrázek](images/Vypsání-detailu-zvířete.png)
-Vypsání všech zvířat
-![Obrázek](images/Zobrazení-všech-zvířat.png)
-Přidat zvíře
-![Obrázek](images/Přidání-zvířete.png)
+---
+
+***Ukázka:***
+
+[Vypsání detailu zvířete](images/Vypsání-detailu-zvířete.png)
+
+[Zobrazení všech zvířat](images/Zobrazení-všech-zvířat.png)
+
+[Přidání zvířete](images/Přidání-zvířete.png)
