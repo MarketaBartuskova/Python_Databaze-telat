@@ -1,6 +1,6 @@
 ***Databáze telat***
 
-Jednoduchá konzolová aplikace v Pythonu pro evidenci telat v CSV souboru. 
+Jednoduchá konzolová aplikace v Pythonu sloužící jako databáze telat. 
 
 Funkce:
 - Přidání nového telete
