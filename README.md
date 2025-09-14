@@ -7,7 +7,6 @@ Jednoduchá konzolová aplikace v Pythonu sloužící jako databáze telat.
 ***Součástí repozitáře je:***
 - `main.py` – hlavní program aplikace  
 - `telata.csv` – soubor s uloženými daty (tabulka telat)  
-- `ikona_krava.ico` – ikona aplikace  
 - `images/` – složka se screenshoty aplikace  
 
 ---
