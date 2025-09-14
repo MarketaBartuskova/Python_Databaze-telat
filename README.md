@@ -11,6 +11,9 @@ Funkce:
 - Automatické ukládání dat do `telata.csv`, soubor se sám vytvoří
 
 Ukázka:
+Vypsání detailu zvířete
 ![Obrázek](images/Vypsání-detailu-zvířete.png)
+Vypsání všech zvířat
 ![Obrázek](images/Zobrazení-všech-zvířat.png)
+Přidat zvíře
 ![Obrázek](images/Přidání-zvířete.png)
